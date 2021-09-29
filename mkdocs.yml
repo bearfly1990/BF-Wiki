@@ -1,0 +1,129 @@
+site_name: BFWiki
+site_url: http://localhost:8080/BFWiki
+repo_url: https://github.com/example/repository/
+site_author: bearfly1990
+site_description: wiki for bearfly1990
+# copyright:
+# nav:
+#     - Home: index.md
+#     - About: about.md
+#     - Kafka:
+#       - Learn Note01: 2021/08/2021-08-09-kafka-learn-01.md
+# pages:
+# - [index.md, Home]
+# - [about.md, About]
+theme:
+    # name: readthedocs
+    name: material
+    # logo: img/xxx.ico
+    # favicon: img/facicon.ico/
+    primary: 'Blue Grey'
+    accent: 'Pink'
+    features:
+      - tabs: true
+      # - toc.integrate
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+    nav_style: dark
+
+extra:
+  search:
+    language: 'zh'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: "#"
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - pymdownx.highlight
+
+
+
+
+# site_name: JetBot
+# theme:
+#     name: "material"
+#     logo: images/logo.png
+#     favicon: images/favicon.png
+#     font: Incosolata
+#     palette:
+#         scheme: nvgreen
+#     features:
+#        - navigation.expand
+#
+# repo_url: https://github.com/NVIDIA-AI-IOT/jetbot
+#
+# plugins:
+#   - search
+# use_directory_urls: false
+#
+# edit_uri: blob/master/docs
+# markdown_extensions:
+#   - pymdownx.tabbed
+#   - pymdownx.keys
+#   - pymdownx.snippets
+#   - pymdownx.inlinehilite
+#   - pymdownx.highlight:
+#         use_pygments: true
+#   - admonition
+#   - pymdownx.details
+#   - pymdownx.superfences
+#   - attr_list  # for image sizes https://github.com/mkdocs/mkdocs/issues/1678
+# # use_directory_urls - False to fix broken raw html image links
+# # https://github.com/mkdocs/mkdocs/issues/991
+#
+#
+# nav:
+#
+#   - Home: index.md
+#   - Getting Started: getting_started.md
+#   - Bill of Materials: bill_of_materials.md
+#   - Hardware Setup: hardware_setup.md
+#   - Software Setup:
+#       - Using SD Card Image: software_setup/sd_card.md
+#       - Using Docker Container: software_setup/docker.md
+#   - Examples:
+#       - Basic Motion: examples/basic_motion.md
+#       - Teleoperation: examples/teleoperation.md
+#       - Collision Avoidance: examples/collision_avoidance.md
+#       - Road Following: examples/road_following.md
+#       - Object Following: examples/object_following.md
+#   - Reference:
+#       - Third Party Kits: third_party_kits.md
+#       - 3D Printing: 3d_printing.md
+#       - Contributing: CONTRIBUTING.md
+#       - Changes: CHANGELOG.md
+#       - Wi-Fi setup: software_setup/wifi_setup.md
+#       - Docker Tips: reference/docker_tips.md
+#
+# extra_css:
+#   - css/version-select.css
+#   - css/colors.css
+# extra_javascript:
+#   - js/version-select.js
+#
+# google_analytics:
+#   - UA-135919510-2
+#   - auto
