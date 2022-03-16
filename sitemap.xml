@@ -2,22 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost:8080/BFWiki/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8080/BFWiki/mkdocs/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <loc>http://localhost:8080/BFWiki/English/open-language/resolving-a-misunderstanding/</loc>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/Others/material/Admonitions/</loc>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/Others/material/diagram/</loc>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/Others/material/mkdocs/</loc>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/Others/material/playground/</loc>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/Tech/github/</loc>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/windows/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/python/pandas/</loc>
-         <lastmod>2021-10-03</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
