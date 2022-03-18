@@ -1,3 +1,7 @@
+---
+tags:
+  - Open Language
+---
 # You're Not a Good Fit
 
 ## Conversation
@@ -85,7 +89,3 @@ B: Thank you for **having faith in** me. I'll do my best to live up to our compa
 ??? note "Bring to someone's attention"
 
     I want to **bring to your attention** that I've made great progress while learning English with you.
-
-*[credit]: n.赞许 也可以用作动词，表示“归功于（某人）”
-*[picky]: adj. 挑剔的，吹毛求疵的，过分讲究的
-*[pull off]: 努力实现

@@ -20,6 +20,11 @@ theme:
     favicon: img/favicon.ico
     primary: "Blue Grey"
     # accent: "Pink"
+    font:
+        text: Incosolata
+        # code: Consolas
+        # text: Courier New
+        # text: Calibri
     features:
         # - tabs: true
         # - toc.integrate
@@ -35,6 +40,10 @@ theme:
     # icon:
     #     admonition:
     #         <type>: <icon> # (1)!
+plugins:
+    - tags
+        # tags_file: tags.md
+    - search
 
 # extra:
 #     search:

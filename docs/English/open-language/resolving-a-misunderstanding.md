@@ -1,3 +1,7 @@
+---
+tags:
+  - Open Language
+---
 # Resolving a Misunderstanding
 
 ## Vocabulary
