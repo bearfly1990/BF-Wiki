@@ -44,6 +44,14 @@ plugins:
     - tags
         # tags_file: tags.md
     - search
+    - exclude:
+        glob:
+            # - exclude/this/path/*
+            - "*.tmp"
+            # - "*.pdf"
+            - "*.gz"
+        regex:
+            - '.*\.(tmp|bin|tar)$'
 
 # extra:
 #     search:
