@@ -2,7 +2,7 @@
 tags:
   - Open Language
 ---
-# You're Not a Good Fit
+# You're not a good fit
 
 ## Conversation
 

@@ -2,7 +2,7 @@
 tags:
   - Open Language
 ---
-# Resolving a Misunderstanding
+# Resolving a misunderstanding
 
 ## Vocabulary
 
