@@ -2,102 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost:8080/BFWiki/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/English/open-language/B2/buying-handbags/</loc>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/buying-spring-clothes/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/career-development-advice/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/looking-for-a-business-vendor/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/resolving-a-misunderstanding/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/taking-client-orders-on-the-phone/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/team-building-events/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/trouble-at-work/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/we-are-behind-schedule/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/you-are-not-a-good-fit/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/music/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/Admonitions/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/diagram/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/mkdocs/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/playground/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/github/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/links/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/windows/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/python/links/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/python/pandas/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
