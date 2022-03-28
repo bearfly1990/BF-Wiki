@@ -106,7 +106,6 @@ tags:
 
 ## Tips
 
-
 *[toner]: n. 爽肤水
 *[moisturizer]: n. 保湿乳液
 *[foundation]: n. 粉底
