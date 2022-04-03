@@ -2,7 +2,7 @@
 tags:
   - Open Language
 ---
-# Buying handbags
+# Buying Handbags
 
 ## Conversation
 
@@ -14,7 +14,7 @@ tags:
 
 👨🏻‍💼：How sweet! How old is your daughter?
 
-👩：She'll be 18 by the end of the week.
+👩：She'll    二 be 18 by the end of the week.
 
 ---
 

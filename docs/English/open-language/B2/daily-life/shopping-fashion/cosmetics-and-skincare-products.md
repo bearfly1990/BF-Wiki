@@ -2,7 +2,7 @@
 tags:
   - Open Language
 ---
-# Cosmetics and skincare products
+# Cosmetics and Skincare Products
 
 ## Conversation
 

@@ -2,7 +2,7 @@
 tags:
   - Open Language
 ---
-# Buying spring clothes
+# Buying Spring Clothes
 
 ## Conversation
 

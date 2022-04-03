@@ -99,7 +99,7 @@ markdown_extensions:
         anchor_linenums: true
 
 extra_css:
-  - stylesheets/extra.css    
+  - stylesheets/extra.css
 # site_name: JetBot
 # theme:
 #     name: "material"
