@@ -6,8 +6,6 @@ tags:
 
 ## Conversation
 
-👨‍💼👨🏻‍💼🦸‍♂️🧙‍♂️🧑🏻
-👩‍💼👩🏻‍💼👩👧
 👩: I heard you wanted to move. Have you found a new apartment yet?
 
 🧑🏻: Not yet. I'm looking for **listings** online. There are a lot of options but not many work for me.
