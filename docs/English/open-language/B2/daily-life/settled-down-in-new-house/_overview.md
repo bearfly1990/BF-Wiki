@@ -1,10 +1,10 @@
-# Overview - Daily Life - Shopping Fashion
+# *Overview - Daily Life - Shopping Fashion
 
 - [x] [Renting an apartment](./renting-an-apartment.md)
     * 看房和租房，教你和房东打交道
-- [x] [TBD](./TBD.md)
+- [x] [Should I get a pet?](./should-i-get-a-pet.md)
     * 猫猫狗狗不稀奇，特殊宠物大魅力
-- [x] [TBD](./TBD.md)
+- [x] [How to settle in a new neighborhood](./how-to-settle-in-a-new-neighborhood.md)
     * 如何在一个新社区安顿下来
 - [x] [TBD](./TBD.md)
     * 有人偷了我的信用卡！
