@@ -6,7 +6,7 @@
     * 猫猫狗狗不稀奇，特殊宠物大魅力
 - [x] [How to settle in a new neighborhood](./how-to-settle-in-a-new-neighborhood.md)
     * 如何在一个新社区安顿下来
-- [x] [TBD](./TBD.md)
+- [x] [Someone stole my credit card](./someone-stole-my-credit-card.md)
     * 有人偷了我的信用卡！
 - [x] [TBD](./TBD.md)
     * 你租过车吗？这些问题要关注哦
