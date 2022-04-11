@@ -1,4 +1,4 @@
-# *Overview - Daily Life - Shopping Fashion
+# *Overview - Daily Life - Settle Down in New House
 
 - [x] [Renting an apartment](./renting-an-apartment.md)
     * 看房和租房，教你和房东打交道
