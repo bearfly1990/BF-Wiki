@@ -8,5 +8,5 @@
     * 如何在一个新社区安顿下来
 - [x] [Someone stole my credit card](./someone-stole-my-credit-card.md)
     * 有人偷了我的信用卡！
-- [x] [TBD](./TBD.md)
+- [x] [Car Rental](./car-rental.md)
     * 你租过车吗？这些问题要关注哦

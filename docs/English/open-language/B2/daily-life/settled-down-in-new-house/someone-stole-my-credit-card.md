@@ -88,8 +88,6 @@ tags:
 
 ## Tips
 
-x
-
 *[sort out the issue]: 解决问题
 *[put (sth) on (sb's) credit card]: 使用某人的信用卡支付某物
 *[be liable for something]: 对某事负责
