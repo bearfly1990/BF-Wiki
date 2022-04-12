@@ -15,7 +15,7 @@ site_description: wiki for bearfly1990
 theme:
     # name: readthedocs
     name: material
-    language: 'en'
+    language: 'zh'
     # logo: img/xxx.ico
     favicon: img/favicon.ico
     primary: "Blue Grey"
@@ -113,8 +113,11 @@ extra_css:
 #
 # repo_url: https://github.com/NVIDIA-AI-IOT/jetbot
 #
-# plugins:
-#   - search
+plugins:
+    - search
+    - exclude:
+        regex:
+            - '.*~.*\.(xlsx)$'
 # use_directory_urls: false
 #
 # edit_uri: blob/master/docs
@@ -156,12 +159,11 @@ extra_css:
 #       - Wi-Fi setup: software_setup/wifi_setup.md
 #       - Docker Tips: reference/docker_tips.md
 #
-# extra_css:
-#   - css/version-select.css
-#   - css/colors.css
-# extra_javascript:
-#   - js/version-select.js
-#
+extra_css:
+  - _static/my.css
+extra_javascript:
+  - _static/my.js
+
 # google_analytics:
 #   - UA-135919510-2
 #   - auto
