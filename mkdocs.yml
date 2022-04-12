@@ -17,7 +17,7 @@ theme:
     name: material
     language: 'zh'
     # logo: img/xxx.ico
-    favicon: img/favicon.ico
+    favicon: assets/img/favicon.ico
     primary: "Blue Grey"
     # accent: "Pink"
     font:
@@ -99,7 +99,7 @@ markdown_extensions:
         anchor_linenums: true
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/static/extra.css
 # site_name: JetBot
 # theme:
 #     name: "material"
@@ -160,9 +160,9 @@ plugins:
 #       - Docker Tips: reference/docker_tips.md
 #
 extra_css:
-  - _static/my.css
+  - assets/static/my.css
 extra_javascript:
-  - _static/my.js
+  - assets/static/my.js
 
 # google_analytics:
 #   - UA-135919510-2

@@ -1,12 +1,14 @@
 ---
 tags:
-  - Music
+    - Music
 ---
 
 # Music
 
-| Song Name | Singer                         | Comment |
-| --------- | ------------------------------ | ------- |
-| Sold Out  | Hawk Nelson/Jonathan Steingard |         |
-|           |                                |         |
-|           |                                |         |
+| Song Name     | Singer                         | Comment |
+| ------------- | ------------------------------ | ------- |
+| Sold Out      | Hawk Nelson/Jonathan Steingard |         |
+| 紫-孙悟空插曲 |                                |         |
+| Huant you     |                                |         |
+| 起风了        |                                |         |
+| 说好不哭      |                                |         |
