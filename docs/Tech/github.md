@@ -20,3 +20,21 @@ cat ./id_rsa.pub
 git config --global credential.helper store
 git config --global http.sslVerify "false"
 ```
+
+## 远程分支关联
+
+```bash
+git branch --set-upstream-to=origin/bf-workbench bf-workbench
+```
+
+## New
+
+```
+echo "# java-playground" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:bearfly1990/java-playground.git
+git push -u origin main
+```
