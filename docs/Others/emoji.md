@@ -1,0 +1,3 @@
+# Emoji
+
+<https://emojipedia.org/>

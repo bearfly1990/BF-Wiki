@@ -8,43 +8,43 @@ tags:
 
 👨🏻‍💼: So tell me about your new colleague!
 
-🦸‍♂️: Are you talking about Jane? I feel like she has been **holding back** the whole team recently.
+👦: Are you talking about Jane? I feel like she has been **holding back** the whole team recently.
 
 ---
 
 👨🏻‍💼: Wasn't she doing well at first?
 
-🦸‍♂️: Yes, she was in **top form** at the beginning.
+👦: Yes, she was in **top form** at the beginning.
 
 ---
 
 👨🏻‍💼: Why isn't she taking things seriously now?
 
-🦸‍♂️: It feels like she alwyas **pushes for perfection**. It isn't always needed and sometimes causes delay.
+👦: It feels like she alwyas **pushes for perfection**. It isn't always needed and sometimes causes delay.
 
 ---
 
 👨🏻‍💼: So what does she spend all of her time doing?
 
-🦸‍♂️: I don't know. But she can't **keep up with** anything. She misses all her deadline.
+👦: I don't know. But she can't **keep up with** anything. She misses all her deadline.
 
 ---
 
 👨🏻‍💼: Wow. Is her inability to keep up impacting the project?
 
-🦸‍♂️: It's really impactful. We're all busy already, and **in the meantime**, we have to help her get her tasks done.
+👦: It's really impactful. We're all busy already, and **in the meantime**, we have to help her get her tasks done.
 
 ---
 
 👨🏻‍💼: She has to **step up** her work.
 
-🦸‍♂️: I do agree with you. **Don't take this the wrong way, but** we shouldn't have to pay for her inefficiency.
+👦: I do agree with you. **Don't take this the wrong way, but** we shouldn't have to pay for her inefficiency.
 
 ---
 
 👨🏻‍💼: No problem. You should also give Jane a chance. She might need more time to get the hang of things. I'm sure she'll catch on eventually.
 
-🦸‍♂️: Yeah, I hope she'll **step up** soon.
+👦: Yeah, I hope she'll **step up** soon.
 
 ## Vocabulary
 

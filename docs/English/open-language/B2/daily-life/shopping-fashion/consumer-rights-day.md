@@ -8,43 +8,43 @@ tags:
 
 👩: I heard that you did an interview on **Consumer Rights Day**?
 
-🦸‍♂️: Yes, we received a call from a **consumer** who wanted to **report** an online sellar.
+👦: Yes, we received a call from a **consumer** who wanted to **report** an online sellar.
 
 ---
 
 👩: It sounds like a **pretty big deal**.
 
-🦸‍♂️: We rushed to the scene, and he was excited and said he wanted to **expose** this **sketchy** business.
+👦: We rushed to the scene, and he was excited and said he wanted to **expose** this **sketchy** business.
 
 ---
 
 👩: What happened?
 
-🦸‍♂️: He said he received fake products.
+👦: He said he received fake products.
 
 ---
 
 👩: He did have a high awareness of consumer rights.
 
-🦸‍♂️: He did. Then he showed us the details of the products and wanted us to **stand up for** him.
+👦: He did. Then he showed us the details of the products and wanted us to **stand up for** him.
 
 ---
 
 👩: Is there any problem with the product?
 
-🦸‍♂️: Not at all. Finally, he said that he was just observing Consumer Rights Day.
+👦: Not at all. Finally, he said that he was just observing Consumer Rights Day.
 
 ---
 
 👩: Come on! That's what happended?
 
-🦸‍♂️: Yeah, we realized that he was just **pulling our leg**.
+👦: Yeah, we realized that he was just **pulling our leg**.
 
 ---
 
 👩: Who would do something like that?
 
-🦸‍♂️: Yeah, it turned out that product was from his own brand, and he was trying to get attention.
+👦: Yeah, it turned out that product was from his own brand, and he was trying to get attention.
 
 ---
 

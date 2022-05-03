@@ -8,43 +8,43 @@ tags:
 
 👨🏻‍💼: We should rent a compact car for our first week in the city.
 
-🦸‍♂️: Then **upgrade** to an SUV when we start our road trip?
+👦: Then **upgrade** to an SUV when we start our road trip?
 
 ---
 
 👨🏻‍💼: Sure! Look! This SUV with a stick shift is so cheap.
 
-🦸‍♂️: Well, we aren't experienced driving stick, so it's better to go with an **automatic** car.
+👦: Well, we aren't experienced driving stick, so it's better to go with an **automatic** car.
 
 ---
 
 👨🏻‍💼: Fine. Should we get roadside protection?
 
-🦸‍♂️: I think my credit card covers that. Let me double check.
+👦: I think my credit card covers that. Let me double check.
 
 ---
 
 👨🏻‍💼: Hope it does. It can save us some money. Should we get unlimited mileage?
 
-🦸‍♂️: We'll need to drive at least 500 miles, so unlimited **mileage** fits us better.
+👦: We'll need to drive at least 500 miles, so unlimited **mileage** fits us better.
 
 ---
 
 👨🏻‍💼: Right, right. This company is the cheapest. But the drop off point is far away.
 
-🦸‍♂️: Well, that might be an issue. Maybe look for a closer **drop off** point?
+👦: Well, that might be an issue. Maybe look for a closer **drop off** point?
 
 ---
 
 👨🏻‍💼: This one then! I can even drop it off with an empty gas tank. We don't need to fill it up.
 
-🦸‍♂️: Still don't you think we should do a **visual inspection** before taking the car?
+👦: Still don't you think we should do a **visual inspection** before taking the car?
 
 ---
 
 👨🏻‍💼: But we can return with an empty tank. They give us a spare tire too, and flexible drop off points. It's the best deal!
 
-🦸‍♂️: Alright, let's get us on our way and book it now.
+👦: Alright, let's get us on our way and book it now.
 
 ---
 

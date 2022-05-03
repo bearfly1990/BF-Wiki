@@ -8,49 +8,49 @@ tags:
 
 👩: Hey, I heard you moved. How is your new neighborhood?
 
-🦸‍♂️: Well, it's convenient to live there. My building is just a few **blocks** from two supermarkets and a hospital.
+👦: Well, it's convenient to live there. My building is just a few **blocks** from two supermarkets and a hospital.
 
 ---
 
 👩: So you must enjoy the new life.
 
-🦸‍♂️: But you know, I'm kind of an **introvert**. It's hard for me to **integrate** myself into the community.
+👦: But you know, I'm kind of an **introvert**. It's hard for me to **integrate** myself into the community.
 
 ---
 
 👩: Oh, I know what you mean, You coudl try to find out about any activities in the neighborhood.
 
-🦸‍♂️: Yeah, actually, they had me over for a **potluck** dinner for newcomers last night.
+👦: Yeah, actually, they had me over for a **potluck** dinner for newcomers last night.
 
 ---
 
 👩: Sounds great! So did you make any friends?
 
-🦸‍♂️: Not really, I tried to **blend in** with everyone. You know, I'm not used to speaking to strangers.
+👦: Not really, I tried to **blend in** with everyone. You know, I'm not used to speaking to strangers.
 
 ---
 
 👩: Oh, don't worry. It takes time to make friends.
 
-🦸‍♂️: I want to throw a hoursewarming party and **have some of my neighbors over for dinner**. But I don't think I can **pull it off**.
+👦: I want to throw a hoursewarming party and **have some of my neighbors over for dinner**. But I don't think I can **pull it off**.
 
 ---
 
 👩: That's a wonderful idea! I'll help you with it!
 
-🦸‍♂️: Thanks a lot! Do you think I should design some **icebreaker** games to start with?
+👦: Thanks a lot! Do you think I should design some **icebreaker** games to start with?
 
 ---
 
 👩: Good idea. What about Line Up? You can let them line up based on their height.
 
-🦸‍♂️: But I don't want any of them to **be offened** if they care about their height
+👦: But I don't want any of them to **be offened** if they care about their height
 
 ---
 
 👩: Oh, you're so considerate.
 
-🦸‍♂️: What about lining up by house number? It **can't hurt to tell** other people which house you live in.
+👦: What about lining up by house number? It **can't hurt to tell** other people which house you live in.
 
 ## Vocabulary
 
