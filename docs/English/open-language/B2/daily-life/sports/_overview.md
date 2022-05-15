@@ -12,9 +12,9 @@
 - [x] [Gym an Workouts](./gym-and-workouts.md)
     - 有氧和拉伸，锻炼起你的全身肌肉。
 - [x] [Extreme Sports](./extreme-sports.md)
-    - xxx
-- [x] [xxx](./xxx.md)
-    - xxx
+    - 试试让人肾上腺素飙升的极限运动
+- [x] [Going to the doctor](./going-to-the-doctor.md)
+    - 和医生聊聊体检的情况，不能说谎哦
 - [x] [xxx](./xxx.md)
     - xxx
 - [x] [xxx](./xxx.md)
