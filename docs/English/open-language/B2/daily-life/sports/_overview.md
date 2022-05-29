@@ -15,7 +15,7 @@
     - 试试让人肾上腺素飙升的极限运动
 - [x] [Going to the doctor](./going-to-the-doctor.md)
     - 和医生聊聊体检的情况，不能说谎哦
-- [x] [xxx](./xxx.md)
-    - xxx
-- [x] [xxx](./xxx.md)
-    - xxxx
+- [x] [Sleeping Problems](./sleeping-problems.md)
+    - 你也有过失眠的时候么？该怎么办呢
+- [x] [Acupuncture](./acupuncture.md)
+    - Devon的针灸初体验
