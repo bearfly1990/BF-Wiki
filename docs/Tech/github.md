@@ -38,3 +38,9 @@ git branch -M main
 git remote add origin git@github.com:bearfly1990/java-playground.git
 git push -u origin main
 ```
+
+## Delete commit totally
+
+```bash
+git rebase -i HEAD~3
+```
