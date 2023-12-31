@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://localhost:8080/BFWiki/English/open-language/B2/culture-onboard/unit-03-social-butterfly/baby-shower/</loc>
+         <lastmod>2023-12-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/_overview/</loc>
          <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
