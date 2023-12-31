@@ -2,307 +2,312 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost:8080/BFWiki/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/temp/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/realword/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/culture-onboard/unit-01-good-food/ordering-drinks/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost:8080/BFWiki/English/open-language/B2/culture-onboard/unit-01-good-food/questions-about-the-menu/</loc>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/_overview/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/car-rental/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/how-to-settle-in-a-new-neighborhood/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/renting-an-apartment/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/should-i-get-a-pet/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/settled-down-in-new-house/someone-stole-my-credit-card/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/_overview/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/buying-handbags/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/buying-spring-clothes/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/consumer-rights-day/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/cosmetics-and-skincare-products/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/shopping-fashion/returning-products/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/_overview/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/acupuncture/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/extreme-sports/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/going-to-the-doctor/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/gym-and-workouts/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/daily-life/sports/sleeping-problems/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-01-personalised-travel/_overview/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-01-personalised-travel/beach-vacation/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-01-personalised-travel/luxury-travel/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-02-travel-strategy/airbnb/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-02-travel-strategy/changing-a-flight-booking/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-02-travel-strategy/travel-hiccups/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-02-travel-strategy/travel-insurance-as-a-birthday-gift/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/travel-onboard/unit-02-travel-strategy/trekking-in-the-wild/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/career-development/career-development-advice/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/office-routine/team-building-events/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/opportunities-challenges/trouble-at-work/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/opportunities-challenges/you-are-not-a-good-fit/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/work-communication/looking-for-a-business-vendor/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/work-communication/resolving-a-misunderstanding/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/work-communication/taking-client-orders-on-the-phone/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/English/open-language/B2/workplace-strategy/work-communication/we-are-behind-schedule/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/bilibili/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/emoji/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/movie/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/music/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/diary/2022/06/2022-06-05-Dragon-Boat-Festival/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/diary/2023/01/2022-01-01-HappyNewYear/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/Admonitions/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/diagram/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/mkdocs/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Others/material/playground/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/github/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/links/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/windows/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/IDEA/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/commons/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/lombok/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/maven/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/springboot/spring/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/java/springboot/springboot/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/python/links/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/python/pandas/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/testing/cucumber/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost:8080/BFWiki/Tech/testing/testng/</loc>
-         <lastmod>2023-06-11</lastmod>
+         <lastmod>2023-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
