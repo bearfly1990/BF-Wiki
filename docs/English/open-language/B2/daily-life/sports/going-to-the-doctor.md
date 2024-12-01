@@ -36,7 +36,7 @@ B: I'm not a doctor but you should have a general health **screening**, just in 
 
 ---
 
-A: If I feel good, why should Isee a doctor?
+A: If I feel good, why should I see a doctor?
 
 B: Doing a health checkup is a necessary **precaution** to prevent potential problems
 

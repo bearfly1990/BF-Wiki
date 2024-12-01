@@ -76,10 +76,10 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.critic
     - pymdownx.details
-    - pymdownx.emoji:
+    #- pymdownx.emoji:
         # emoji_generator: !!python/name:pymdownx.emoji.to_png
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+        #emoji_index: !!python/name:materialx.emoji.twemoji
+        #emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.inlinehilite
     - pymdownx.magiclink
     - pymdownx.mark
