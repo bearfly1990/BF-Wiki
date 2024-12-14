@@ -32,6 +32,7 @@ theme:
         - content.code.annotate # (1)
         - navigation.tabs
         - navigation.top
+        # - navigation.instant
     highlightjs: true
     hljs_languages:
         - yaml
@@ -44,6 +45,11 @@ plugins:
     - tags
         # tags_file: tags.md
     - search
+    # - neoteroi.contribs
+    # - exporter:
+    #     formats:
+    #       pdf:
+    #         enabled: !ENV [MKDOCS_EXPORTER_PDF_ENABLED, true]
     - exclude:
         glob:
             # - exclude/this/path/*
@@ -51,13 +57,20 @@ plugins:
             # - "*.pdf"
             - "*.gz"
         regex:
-            - '.*\.(tmp|bin|tar)$'
-
+            - '.*\.(tmp|bin|tar)$'  
+            - '.*~.*\.(xlsx)$'
+    # - print-site
+    # - with-pdf
+    # - pdf-export
 # extra:
 #     search:
 #         language: 'zh'
 
 markdown_extensions:
+    # - neoteroi.projects
+    - neoteroi.timeline
+    - neoteroi.cards
+    - neoteroi.projects
     - abbr
     - admonition
     - attr_list
@@ -80,11 +93,15 @@ markdown_extensions:
         # emoji_generator: !!python/name:pymdownx.emoji.to_png
         #emoji_index: !!python/name:materialx.emoji.twemoji
         #emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.inlinehilite
     - pymdownx.magiclink
     - pymdownx.mark
     - pymdownx.smartsymbols
     - pymdownx.snippets
+    
     - pymdownx.superfences:
         custom_fences:
         - name: mermaid
@@ -98,8 +115,8 @@ markdown_extensions:
     - pymdownx.highlight:
         anchor_linenums: true
 
-extra_css:
-  - assets/static/extra.css
+
+
 # site_name: JetBot
 # theme:
 #     name: "material"
@@ -113,11 +130,7 @@ extra_css:
 #
 # repo_url: https://github.com/NVIDIA-AI-IOT/jetbot
 #
-plugins:
-    - search
-    - exclude:
-        regex:
-            - '.*~.*\.(xlsx)$'
+
 # use_directory_urls: false
 #
 # edit_uri: blob/master/docs
@@ -160,7 +173,9 @@ plugins:
 #       - Docker Tips: reference/docker_tips.md
 #
 extra_css:
+  - assets/static/extra.css
   - assets/static/my.css
+  - assets/static/neoteroi-mkdocs.css
 extra_javascript:
   - assets/static/my.js
 
