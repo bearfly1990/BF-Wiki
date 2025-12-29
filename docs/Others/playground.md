@@ -1,3 +1,127 @@
+# Playground
+
+???+ note "Feedback wanted!"
+
+    The tutorials are a recent addition to our documentation and we are still
+    working out what shape they should have in the end. Please [provide any
+    feedback you might have in this discussion thread].
+
+    Note, however, that suggestions should be specific and feasible. We want to
+    focus on creating more content at the moment, instead of developing a
+    specific styling or behaviour for the tutorials. If there are worthwhile
+    improvements that we can make through simple customization then we are happy
+    to consider those.
+
+## Admonition
+
+Following is a list of type qualifiers provided by Material for MkDocs, whereas
+the default type, and thus fallback for unknown type qualifiers, is `note`[^1]:
+
+[^1]:
+    Previously, some of the supported types defined more than one qualifier.
+    For example, authors could use `summary` or `tldr` as alternative qualifiers
+    to render an [`abstract`](#+type:abstract) admonition. As this increased the
+    size of the CSS that is shipped with Material for MkDocs, the additional
+    type qualifiers are now all deprecated and will be removed in the next major
+    version. This will also be mentioned in the upgrade guide.
+
+<!-- md:option type:note -->
+
+: !!! note
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:abstract -->
+
+: !!! abstract
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:info -->
+
+: !!! info
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:tip -->
+
+: !!! tip
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:success -->
+
+: !!! success
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:question -->
+
+: !!! question
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:warning -->
+
+: !!! warning
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:failure -->
+
+: !!! failure
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:danger -->
+
+: !!! danger
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:bug -->
+
+: !!! bug
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:example -->
+
+: !!! example
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+<!-- md:option type:quote -->
+
+: !!! quote
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+        purus auctor massa, nec semper lorem quam in massa.
+
+## Mermaid
 
 ```mermaid
     %%{init: { 'logLevel': 'debug', 'theme': 'default' } }%%
@@ -89,13 +213,13 @@ timeline
  title mermiad时间线图示例(成长)
     section 少年
         2015: 高中
-        2018: 大学 
+        2018: 大学
     section 青年
         2023: 工作
         2024: 创业
 ```
 
-``` mermaid
+```mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
@@ -104,7 +228,7 @@ graph LR
   B ---->|No| E[Yay!];
 ```
 
-``` mermaid
+```mermaid
 sequenceDiagram
   autonumber
   Alice->>John: Hello John, how are you?
@@ -170,6 +294,7 @@ sequenceDiagram
 
 - title: Definition Phase
   activities:
+
   - title: Creative Brief
     start: 2022-03-03
     lasts: 1 day
@@ -183,6 +308,7 @@ sequenceDiagram
 
 - title: Creation Phase
   activities:
+
   - title: Sketching
     start: 2022-03-21
     end: 2022-04-01
@@ -195,6 +321,7 @@ sequenceDiagram
 
 - title: Feedback Phase
   activities:
+
   - title: Presenting
     start: 2022-04-22
     end: 2022-05-01
